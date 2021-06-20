@@ -38,3 +38,5 @@ if len(v) == len(l) and len(s) == len(n) :
             w += 1
         u += 1    
         print ("\n")
+else:
+    print("Matrix can't add")
